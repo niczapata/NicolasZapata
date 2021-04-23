@@ -8,5 +8,5 @@
 
 ### Connect with me!
 
-[<img alight="left" alt="Nicolás Zapata | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/>][twitter]
-[<img alight="left" alt="Nicolás Zapata | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>][linkedin]
+[<img alight="left" alt="Nicolás Zapata | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/>](https://twitter.com/niczapata12)
+[<img alight="left" alt="Nicolás Zapata | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>](https://www.linkedin.com/in/nicolás-zapata-álzate-765b1216b)
