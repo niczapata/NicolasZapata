@@ -1,4 +1,4 @@
-### HI!! MY NAME IS NICOLÁS ZAPATA ÁLZATE
+### HI!! 👋 My name is Nicolás Zapata Álzate
 
 ## I'm a informatics engeneering student, Android Developer and a Javascript and Python programmer.
 
