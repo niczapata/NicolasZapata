@@ -2,9 +2,9 @@
 
 ## I'm a Informatics Engeneering Student, Android Developer and a Javascript and Python programmer.
 
-- 🔭 I'm currently working on a Arduino Sensor for Black Tilapias care in Huila's Departament in Colombia.
+- 🔭 I'm currently learning in the Unir's University.
 - 🌱 I'm actually learning Machine Learning, Big Data and Cloud Computing.
-- 🎒 2021 Goals: Working to be more better in programming.
+- 🎒 2022 Goals: Working to be more better in programming.
 
 ### Connect with me!
 
