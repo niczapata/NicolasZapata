@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently learning in the Unir's University.
 - 🌱 I'm actually learning Machine Learning, Big Data and Cloud Computing.
-- 🎒 2022 Goals: Working to be more better in programming.
+- 🎒 2023 Goals: Working to be more better in programming.
 
 ### Connect with me!
 
