@@ -4,7 +4,7 @@
 I'm a Informatics Engineer 👨‍🎓 and a programmer.
 
 ## Skills and experiences  
-- 🔭 I'm currently working for Quanam's Group Colombia, An Odoo oficial Partner woring in countrys like Peru, Uruguar and Colombia.
+- 🔭 I'm currently working for Quanam's Group Colombia, An Odoo oficial Partner woring in countries like Peru, Uruguar and Colombia.
 - 🌱 I'm actually my skill in developmen, for be more specific, in web and mobile development.
 - 👨‍💻 My actually skills are tools like Odoo, React Native, Flutter and Android Studio Development. My favorite programming lenguages are:
   * Javascript
