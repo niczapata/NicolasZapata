@@ -1,12 +1,21 @@
 ### Hi!! 👋 My name is Nicolás Zapata Álzate
 
-## I'm a Informatics Engeneering Student, Android Developer and a Javascript and Python programmer.
+## About me
+I'm a Informatics Engineer 👨‍🎓 and a programmer.
 
-- 🔭 I'm currently learning in the Unir's University.
-- 🌱 I'm actually learning Machine Learning, Big Data and Cloud Computing.
-- 🎒 2023 Goals: Working to be more better in programming.
+## Skills and experiences  
+- 🔭 I'm currently working for Quanam's Group Colombia, An Odoo oficial Partner woring in countrys like Peru, Uruguar and Colombia.
+- 🌱 I'm actually my skill in developmen, for be more specific, in web and mobile development.
+- 👨‍💻 My actually skills are tools like Odoo, React Native, Flutter and Android Studio Development. My favorite programming lenguages are:
+  * Javascript
+  * Python
+  * Kotlin
+  * Dart
+- 🎒 2024 Goals: Working to be more better in Odoo development, now i'm working to be experte with the tool. Another goal is start learning another programming lenguajes like Go.
 
 ### Connect with me!
 
-[<img alight="left" alt="Nicolás Zapata | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/>](https://twitter.com/niczapata12)
-[<img alight="left" alt="Nicolás Zapata | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>](https://www.linkedin.com/in/nicolás-zapata-álzate-765b1216b)
+[<img alight="left" alt="Nicolás Zapata | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/>](https://twitter.com/niczapata12)
+[<img alight="left" alt="Nicolás Zapata | Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>](https://www.linkedin.com/in/nicolás-zapata-álzate-765b1216b)
+[<img alight="left" alt="Nicolás Zapata | Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"/>](https://www.instagram.com/niczapata12/)
+[<img alight="left" alt="Nicolás Zapata | Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"/>](https://web.facebook.com/nico.zapata.560)
