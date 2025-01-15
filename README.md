@@ -14,4 +14,4 @@ I'm a Informatics Engineer 👨‍🎓 and a programmer.
   - Dart
   - Java
   - Go
-- 🎒 2024 Goals: Grow my English skils and start to learn more about AWS and Azure for Cloud Computing.
+- 🎒 2025 Goals: Grow my English skils and start to learn more about AWS and Azure for Cloud Computing.
